@@ -4,17 +4,17 @@
 
 Установка
 
-![image](https://github.com/xoz0r/CMuYUUB/assets/145142526/817416d8-8698-4180-8785-11b5cd4b3091)
+![image](https://github.com/xoz0r/CMuYUUB/assets/145142526/192c1e72-eb3e-4565-b093-c5ce8ab5a3bf)
 
-Переходим в intalation gide
+Переходим в intall wazuh
 
-![image](https://github.com/xoz0r/CMuYUUB/assets/145142526/54f5d5e1-4416-4f1d-9d16-7a57bf941134)
+![image](https://github.com/xoz0r/CMuYUUB/assets/145142526/f71c50a4-d281-40ff-9a19-268f36091641)
 
-![image](https://github.com/xoz0r/CMuYUUB/assets/145142526/d7d0661b-110a-449c-ac9f-a91068e5c857)
+![image](https://github.com/xoz0r/CMuYUUB/assets/145142526/5c0370d4-412d-48e1-a0cd-885f4b19237b)
 
-Переходим в раздел для ВМ и скачиваем
+Переходим в нужный раздел и скачиваем
 
-![image](https://github.com/xoz0r/CMuYUUB/assets/145142526/19fceb4c-e00f-4042-818f-e05b3d6f7674)
+![image](https://github.com/xoz0r/CMuYUUB/assets/145142526/619809d4-41b9-4614-91a3-0516bec048ac)
 
 Разворачиваем на ВМ 
 
